@@ -2,6 +2,7 @@ const express = require('express');
 const { v4: uuidv4 } = require('uuid');
 const fileHandler = require('./utils/fileHandler');
 const app = express();
+const cors = require('cors');
 const PORT = 3000;
 
 // Data validation keys
@@ -21,6 +22,7 @@ const expectedPublisherKeys = [
   "firstName", "lastName", "displayName", "phone", "address", "profilePicture"
 ];
 
+app.use(cors());
 app.use(express.json());
 
 const DB_FILE = './cars.json';
