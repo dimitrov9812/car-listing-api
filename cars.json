@@ -877,7 +877,45 @@
     }
   },
   {
-    "id": "65121356-3e82-420c-b59c-a43ed3e89fd9",
-    "datePublished": "2025-04-22T05:07:15.182Z"
+    "id": "e30b6592-7371-4091-b4c6-9448dd232640",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "type": "off-road",
+    "features": {
+      "airConditioning": true,
+      "sunroof": false,
+      "heatedSeats": true,
+      "bluetooth": false,
+      "backupCamera": false,
+      "cruiseControl": true,
+      "laneAssist": false,
+      "parkingSensors": true,
+      "keylessEntry": true,
+      "remoteStart": false,
+      "leatherSeats": false,
+      "navigationSystem": false,
+      "appleCarPlay": true,
+      "androidAuto": true,
+      "blindSpotMonitor": true,
+      "adaptiveHeadlights": true,
+      "fogLights": true,
+      "alloyWheels": false,
+      "tintedWindows": true,
+      "sportPackage": false
+    },
+    "pictures": [
+      "https://source.unsplash.com/random/800x600?car&sig=6806",
+      "https://source.unsplash.com/random/800x600?car&sig=5341",
+      "https://source.unsplash.com/random/800x600?car&sig=8861"
+    ],
+    "publisher": {
+      "firstName": "Maria",
+      "lastName": "Mariaov",
+      "displayName": "Maria Mariaov",
+      "phone": "+359893301759",
+      "address": "Sofia, Bulgaria",
+      "profilePicture": "https://i.pravatar.cc/150?u=0bed6de1-d6c3-4657-b508-8fe4e8265492"
+    },
+    "datePublished": "2025-04-22T05:40:44.594Z"
   }
 ]
