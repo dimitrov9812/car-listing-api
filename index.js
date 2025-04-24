@@ -7,7 +7,7 @@ const PORT = 3000;
 
 // Data validation keys
 const expectedCarKeys = [
-  "make", "model", "type", "features", "pictures", "publisher"
+  "make", "model", "price", "type", "features", "pictures", "publisher"
 ];
 
 const expectedFeatureKeys = [
